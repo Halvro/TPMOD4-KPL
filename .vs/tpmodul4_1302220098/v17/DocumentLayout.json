@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Haikal\\OneDrive\\Documents\\Konstruksi Perangkat Lunak\\tpmodul4_1302220098\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C7A05B4-1F4C-46C4-BF84-6E16E1750D5E}|tpmodul4_1302220098\\tpmodul4_1302220098.csproj|c:\\users\\haikal\\onedrive\\documents\\konstruksi perangkat lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7A05B4-1F4C-46C4-BF84-6E16E1750D5E}|tpmodul4_1302220098\\tpmodul4_1302220098.csproj|solutionrelative:tpmodul4_1302220098\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C7A05B4-1F4C-46C4-BF84-6E16E1750D5E}|tpmodul4_1302220098\\tpmodul4_1302220098.csproj|c:\\users\\haikal\\onedrive\\documents\\konstruksi perangkat lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C7A05B4-1F4C-46C4-BF84-6E16E1750D5E}|tpmodul4_1302220098\\tpmodul4_1302220098.csproj|solutionrelative:tpmodul4_1302220098\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7A05B4-1F4C-46C4-BF84-6E16E1750D5E}|tpmodul4_1302220098\\tpmodul4_1302220098.csproj|c:\\users\\haikal\\onedrive\\documents\\konstruksi perangkat lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7A05B4-1F4C-46C4-BF84-6E16E1750D5E}|tpmodul4_1302220098\\tpmodul4_1302220098.csproj|solutionrelative:tpmodul4_1302220098\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7A05B4-1F4C-46C4-BF84-6E16E1750D5E}|tpmodul4_1302220098\\tpmodul4_1302220098.csproj|c:\\users\\haikal\\onedrive\\documents\\konstruksi perangkat lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7A05B4-1F4C-46C4-BF84-6E16E1750D5E}|tpmodul4_1302220098\\tpmodul4_1302220098.csproj|solutionrelative:tpmodul4_1302220098\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Haikal\\OneDrive\\Documents\\Konstruksi Perangkat Lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "tpmodul4_1302220098\\DoorMachine.cs",
+              "ToolTip": "C:\\Users\\Haikal\\OneDrive\\Documents\\Konstruksi Perangkat Lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\DoorMachine.cs",
+              "RelativeToolTip": "tpmodul4_1302220098\\DoorMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:06:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "KodePos.cs",
               "DocumentMoniker": "C:\\Users\\Haikal\\OneDrive\\Documents\\Konstruksi Perangkat Lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\KodePos.cs",
               "RelativeDocumentMoniker": "tpmodul4_1302220098\\KodePos.cs",
               "ToolTip": "C:\\Users\\Haikal\\OneDrive\\Documents\\Konstruksi Perangkat Lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\KodePos.cs",
               "RelativeToolTip": "tpmodul4_1302220098\\KodePos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T16:36:27.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Haikal\\OneDrive\\Documents\\Konstruksi Perangkat Lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul4_1302220098\\Program.cs",
               "ToolTip": "C:\\Users\\Haikal\\OneDrive\\Documents\\Konstruksi Perangkat Lunak\\tpmodul4_1302220098\\tpmodul4_1302220098\\Program.cs",
               "RelativeToolTip": "tpmodul4_1302220098\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T16:24:44.627Z",
               "EditorCaption": ""

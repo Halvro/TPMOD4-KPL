@@ -14,6 +14,13 @@ internal class Program
         Console.WriteLine("ini kode post Cijaura: " + kodePosCijaura);
         Console.WriteLine("ini kode post Margasari: " + kodePosMargasari);
         Console.WriteLine(" ");
+
+        Console.WriteLine("INI SOAL NOMOR 2");
+        DoorMachine doorMachine = new DoorMachine();
+        doorMachine.Buka();
+        doorMachine.Buka();
+        doorMachine.Kunci();
+        doorMachine.Kunci();
     }
 }
 

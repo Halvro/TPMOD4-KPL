@@ -12,3 +12,4 @@ C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_130222009
 C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.pdb
 C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.genruntimeconfig.cache
 C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\ref\tpmodul4_1302220098.dll
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.sourcelink.json
