@@ -1,0 +1,14 @@
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\bin\Debug\net8.0\tpmodul4_1302220098.exe
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\bin\Debug\net8.0\tpmodul4_1302220098.deps.json
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\bin\Debug\net8.0\tpmodul4_1302220098.runtimeconfig.json
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\bin\Debug\net8.0\tpmodul4_1302220098.dll
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\bin\Debug\net8.0\tpmodul4_1302220098.pdb
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.AssemblyInfoInputs.cache
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.AssemblyInfo.cs
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.csproj.CoreCompileInputs.cache
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.dll
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\refint\tpmodul4_1302220098.dll
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.pdb
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\tpmodul4_1302220098.genruntimeconfig.cache
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\tpmodul4_1302220098\tpmodul4_1302220098\obj\Debug\net8.0\ref\tpmodul4_1302220098.dll
